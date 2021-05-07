@@ -69,8 +69,8 @@ https://jedrekdabrowski.github.io/Millionaires-React-App/
 <br/>
 <br/>
 <strong>QuotesBook</strong>
+<br/>
 QuotesBook is an app with a page turning animation. 
-
   Take a closer look at it:
  <br/>
 https://github.com/JedrekDabrowski/QuotesBook
@@ -83,7 +83,6 @@ https://github.com/JedrekDabrowski/QuotesBook
 I’m currently working on Shop Website, it's my first bigger project where I will be able to use all knowledge that I've learned recently.
  <br/>
  <br/>
- 
  ### Don't hesitate to contact me:
  jedrzejdabrowski@gmail.com
  <br/>
