@@ -4,8 +4,7 @@ I am studying IT at Bialystok University of Technology.
 <br/>
 I focus on learning Front-end technologies like HTML,CSS/SASS and JavaScript/React. 
 <br/>
-I love doing my own procjects because in my opinion it's the best way to develop!
-
+I love doing my own procjects because in my opinion it's the best way to develop.
 ### Tech stack
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
@@ -39,53 +38,52 @@ I love doing my own procjects because in my opinion it's the best way to develop
 ### My Projects
 <strong>WeatherApp</strong>
 <br/>
- The Weather App is my first React Project, app allows you to find inormation about current weather around the world. 
- <br/>
- All data were fetched from: https://openweathermap.org/
- <br/>
- You can see how it works here:
- <br/>
- https://jedrekdabrowski.github.io/Weather-App/
- <br/>
- <br/>
- TODO:
- In the first version I used class components so now I need to refactor them to funcional components.
+The Weather App is my first React Project, app allows you to find inormation about current weather around the world. 
+<br/>
+All data were fetched from: https://openweathermap.org/
+<br/>
+<br/>
+You can see how it works here:
+<br/>
+https://jedrekdabrowski.github.io/Weather-App/
+<br/>
+TODO:
+In the first version I used class components so now I need to refactor them to funcional components.
 <br/>
 <br/>
 <strong>Millionaires</strong>
- <br/>
- Millionaires App is a well-known game which we all know from TV.
- <br/>
- All data were fetched from: https://opentdb.com/
-  <br/>
- I wish you luck because the questions are tough. Have fun!
- 
-  You can see how it works here:
- <br/>
+<br/>
+Millionaires App is a well-known game which we all know from TV.
+<br/>
+All data were fetched from: https://opentdb.com/
+<br/>
+<br/>
+I wish you luck because the questions are tough. Have fun!
+<br/>
+You can see how it works here:
+<br/>
 https://jedrekdabrowski.github.io/Millionaires-React-App/
- <br/>
-  TODO:
- In the first version I used class component so now I need to refactor them to funcional components.
+<br/>
+TODO:
+In the first version I used class component so now I need to refactor them to funcional components.
 <br/>
 <br/>
 <strong>QuotesBook</strong>
 <br/>
 QuotesBook is an app with a page turning animation. 
 <br/>
-  Take a closer look at it:
- <br/>
-https://github.com/JedrekDabrowski/QuotesBook
- <br/>
- <br/>
-### I’m currently working on:
+Take a closer look at it:
 <br/>
+<br/>
+https://github.com/JedrekDabrowski/QuotesBook
+<br/>
+### I’m currently working on:
 <strong>Shop Website</strong>
 <br/>
 I’m currently working on Shop Website, it's my first bigger project where I will be able to use all knowledge that I've learned recently.
- <br/>
- <br/>
- ### Don't hesitate to contact me:
- jedrzejdabrowski@gmail.com
- <br/>
- <br/>
- Have a nice day!
+<br/>
+### Don't hesitate to contact me:
+jedrzejdabrowski@gmail.com
+<br/>
+<br/>
+Have a nice day!
