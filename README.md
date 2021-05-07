@@ -79,8 +79,8 @@ https://github.com/JedrekDabrowski/QuotesBook
 ### I’m currently working on:
 <br/>
 <strong>Shop Website</strong>
+<br/>
 I’m currently working on Shop Website, it's my first bigger project where I will be able to use all knowledge that I've learned recently.
-
  <br/>
  <br/>
  
