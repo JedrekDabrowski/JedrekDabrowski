@@ -38,7 +38,8 @@ I love doing my own procjects because in my opinion it's the best way to develop
 ### My Projects
 <strong>WeatherApp</strong>
 <br/>
-The Weather App is my first React Project, app allows you to find inormation about current weather around the world. 
+The Weather App is my first React Project, app allows you to find inormation about current weather around the world.
+<br/>
 In the first version I used class components then I refactor them to funcional components.
 <br/>
 All data were fetched from: https://openweathermap.org/
