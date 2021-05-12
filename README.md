@@ -39,6 +39,7 @@ I love doing my own procjects because in my opinion it's the best way to develop
 <strong>WeatherApp</strong>
 <br/>
 The Weather App is my first React Project, app allows you to find inormation about current weather around the world. 
+In the first version I used class components then I refactor them to funcional components.
 <br/>
 All data were fetched from: https://openweathermap.org/
 <br/>
@@ -46,9 +47,6 @@ All data were fetched from: https://openweathermap.org/
 You can see how it works here:
 <br/>
 https://jedrekdabrowski.github.io/Weather-App/
-<br/>
-TODO:
-In the first version I used class components so now I need to refactor them to funcional components.
 <br/>
 <br/>
 <strong>Millionaires</strong>
