@@ -54,6 +54,8 @@ https://jedrekdabrowski.github.io/Weather-App/
 <br/>
 Millionaires App is a well-known game which we all know from TV.
 <br/>
+In the first version I used class component then I refactor them to funcional components. I want to pratice more React Context so I add GameContext Component to avoid "props drilling" approach. 
+<br/>
 All data were fetched from: https://opentdb.com/
 <br/>
 <br/>
@@ -62,9 +64,6 @@ I wish you luck because the questions are tough. Have fun!
 You can see how it works here:
 <br/>
 https://jedrekdabrowski.github.io/Millionaires-React-App/
-<br/>
-TODO:
-In the first version I used class component so now I need to refactor them to funcional components.
 <br/>
 <br/>
 <strong>QuotesBook</strong>
