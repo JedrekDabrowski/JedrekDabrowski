@@ -9,13 +9,15 @@ I love doing my own procjects because in my opinion it's the best way to develop
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
-    <img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
 </div>
 <br/>
 <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat"/>
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=flat"/>
      <img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat"/>
      <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
+    <img alt="React Context" src="https://img.shields.io/badge/React Context-black?logo=react&logoColor=white&style=flat"/>
+        <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?logo=next-dot-js&logoColor=white&style=flat"/>
 </div>
 <br/>
 <div>
@@ -29,10 +31,9 @@ I love doing my own procjects because in my opinion it's the best way to develop
 
 ### I’m currently learning
 <div>
-    <img alt="React Context" src="https://img.shields.io/badge/React Context-black?logo=react&logoColor=white&style=flat"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=flat"/>
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&style=flat"/>
-    <img alt="MobX" src="https://img.shields.io/badge/Mobx-black?logo=mobx&style=flat"/>
+    <img alt="React Native" src="https://img.shields.io/badge/ReactNative-black?logo=React&style=flat"/>
+    <img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
+    <img alt='Styled Components' src="https://img.shields.io/badge/Styled Components-white?logo=styled-components&logoColor=purple&style=flat"/>
 </div>
 
 ### My Projects
