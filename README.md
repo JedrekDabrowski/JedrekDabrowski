@@ -1,14 +1,16 @@
 ### Hello everybody 👋
 
-I am studying IT at Bialystok University of Technology.
+I am studying IT at <strong>Bialystok University of Technology</strong>
+and working in <strong>Aexol</strong> as React/React Native Developer.
 <br/>
-I focus on learning Front-end technologies like HTML,CSS/SASS and JavaScript/React. 
 <br/>
-I love doing my own procjects because in my opinion it's the best way to develop.
+After work and studies I love doing my own procjects because in my opinion it's the best way to develop.
 ### Tech stack
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
+    <img alt='Styled Components' src="https://img.shields.io/badge/Styled Components-white?logo=styled-components&logoColor=purple&style=flat"/>
+    
 </div>
 <br/>
 <div>
@@ -18,6 +20,8 @@ I love doing my own procjects because in my opinion it's the best way to develop
      <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
     <img alt="React Context" src="https://img.shields.io/badge/React Context-black?logo=react&logoColor=white&style=flat"/>
         <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?logo=next-dot-js&logoColor=white&style=flat"/>
+    <img alt="React Native" src="https://img.shields.io/badge/ReactNative-black?logo=React&style=flat"/>
+    
 </div>
 <br/>
 <div>
@@ -31,12 +35,31 @@ I love doing my own procjects because in my opinion it's the best way to develop
 
 ### I’m currently learning
 <div>
-    <img alt="React Native" src="https://img.shields.io/badge/ReactNative-black?logo=React&style=flat"/>
-    <img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
-    <img alt='Styled Components' src="https://img.shields.io/badge/Styled Components-white?logo=styled-components&logoColor=purple&style=flat"/>
+    <img alt='NodeJS' src="https://img.shields.io/badge/NodeJS-darkgreen?logo=node.js&logoColor=white&style=flat"/>
+    <img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
 </div>
 
 ### My Projects
+<strong>Shop App</strong>
+<br/>
+Shop app is a React Native project with TypeScript. As a state container I have used Redux and Firebase database.
+<br/>
+Take a closer look at it:
+<br/>
+<br/>
+https://github.com/JedrekDabrowski/Shop-App
+<br/>
+<br/>
+<strong>MyBlog App</strong>
+<br/>
+MyBlog app is React project with NextJS framework, mongoDB database, gray-matter and much more.
+<br/>
+The project is available here:
+<br/>
+<br/>
+https://github.com/JedrekDabrowski/MyBlogNextJS
+<br/>
+<br/>
 <strong>WeatherApp</strong>
 <br/>
 The Weather App is my first React Project, app allows you to find inormation about current weather around the world.
@@ -76,10 +99,6 @@ Take a closer look at it:
 <br/>
 https://github.com/JedrekDabrowski/QuotesBook
 <br/>
-### I’m currently working on:
-<strong>Shop Website</strong>
-<br/>
-I’m currently working on Shop Website, it's my first bigger project where I will be able to use all knowledge that I've learned recently.
 <br/>
 ### Don't hesitate to contact me:
 jedrzejdabrowski@gmail.com
