@@ -39,6 +39,12 @@ After work and studies I love doing my own procjects because in my opinion it's 
     <img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
 </div>
 
+### Courses
+On my Udemy profile you can see all courses that I have finished or I am currently doing:
+<br/>
+<br/>
+https://www.udemy.com/user/jedrzej-dabrowski-2/
+<br/>
 ### My Projects
 <strong>Shop App</strong>
 <br/>
