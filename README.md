@@ -107,7 +107,7 @@ https://github.com/JedrekDabrowski/QuotesBook
 <br/>
 <br/>
 ### Don't hesitate to contact me:
-jedrzejdabrowski@gmail.com
+jedrzejdabrowski.jd@gmail.com
 <br/>
 <br/>
 Have a nice day!
