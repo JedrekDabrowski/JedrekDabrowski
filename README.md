@@ -48,6 +48,20 @@ On my Udemy profile you can see all courses that I have finished or I am current
 https://www.udemy.com/user/jedrzej-dabrowski-2/
 <br/>
 ### My Projects
+
+
+<strong>Graphbase-native</strong>
+<br/>
+I am developing my own library with generates backend resolvers based on GraphQL schema provided by user.
+<br/>
+You can see how it works here:
+<br/>
+
+https://github.com/GraphBase-Native/graphbase-native
+<br/>
+Please, leave a start or create an issue (even better).
+
+
 <strong>Shop App</strong>
 <br/>
 Shop app is a React Native project with TypeScript. As a state container I have used Redux and Firebase database.
