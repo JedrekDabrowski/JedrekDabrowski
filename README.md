@@ -1,7 +1,7 @@
 ### Hello everybody 👋
 
 I am studying IT at <strong>Bialystok University of Technology</strong>
-and working in <strong>Aexol</strong> as React/React Native Developer.
+and working in <strong>Aexol</strong> as Fullstack Developer (React, React Native, Node, GraphQL, Nest).
 <br/>
 <br/>
 After work and studies I love doing my own procjects because in my opinion it's the best way to develop.
@@ -19,8 +19,10 @@ After work and studies I love doing my own procjects because in my opinion it's 
      <img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat"/>
      <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
     <img alt="React Context" src="https://img.shields.io/badge/React Context-black?logo=react&logoColor=white&style=flat"/>
-        <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?logo=next-dot-js&logoColor=white&style=flat"/>
+    <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?logo=next-dot-js&logoColor=white&style=flat"/>
     <img alt="React Native" src="https://img.shields.io/badge/ReactNative-black?logo=React&style=flat"/>
+    <img alt='NodeJS' src="https://img.shields.io/badge/NodeJS-darkgreen?logo=node.js&logoColor=white&style=flat"/>
+    <img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
     
 </div>
 <br/>
@@ -35,8 +37,8 @@ After work and studies I love doing my own procjects because in my opinion it's 
 
 ### I’m currently learning
 <div>
-    <img alt='NodeJS' src="https://img.shields.io/badge/NodeJS-darkgreen?logo=node.js&logoColor=white&style=flat"/>
-    <img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
+    <img alt='NestJS' src="https://shields.io/badge/Nest-important?logo=nestJS&logoColor=white&style=flat"/>
+    <img alt='Jest' src="https://shields.io/badge/Jest-red?logo=jest&logoColor=white&style=flat/"/>
 </div>
 
 ### Courses
