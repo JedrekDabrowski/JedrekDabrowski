@@ -5,6 +5,21 @@ and working in <strong>Aexol</strong> as Fullstack Developer (React, React Nativ
 <br/>
 <br/>
 After work and studies I love doing my own procjects because in my opinion it's the best way to develop.
+
+### My Main Project
+
+<strong>Graphbase-core</strong>
+<br/>
+I am developing my own library with generates backend resolvers based on GraphQL schema provided by user.
+<br/>
+You can see how it works here:
+
+Github: https://github.com/GraphBase-Core/graphbase-core
+
+NPM: https://www.npmjs.com/package/graphbase-core
+
+Please, leave a start or create an issue (even better).
+
 ### Tech stack
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
@@ -47,20 +62,7 @@ On my Udemy profile you can see all courses that I have finished or I am current
 <br/>
 https://www.udemy.com/user/jedrzej-dabrowski-2/
 <br/>
-### My Projects
-
-
-<strong>Graphbase-native</strong>
-<br/>
-I am developing my own library with generates backend resolvers based on GraphQL schema provided by user.
-<br/>
-You can see how it works here:
-<br/>
-
-https://github.com/GraphBase-Native/graphbase-native
-<br/>
-Please, leave a start or create an issue (even better).
-
+### Other Projects
 
 <strong>Shop App</strong>
 <br/>
