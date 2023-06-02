@@ -1,10 +1,10 @@
 ### Hello everybody 👋
 
-I am studying IT at <strong>Bialystok University of Technology</strong>
-and working in <strong>Aexol</strong> as Fullstack Developer (React, React Native, Node, GraphQL, Nest).
-<br/>
-<br/>
-After work and studies I love doing my own procjects because in my opinion it's the best way to develop.
+I am experienced React Native developer with a passion for mobile app development. 
+Recognized for strong problem-solving skills and an ability to quickly learn new 
+technologies. I consider myself to be well-organized and highly motivated. 
+
+I graduated the IT bachelor degree on Bialystok University of Technology. It is worth mentioning that I have the student status.
 
 ### My Main Project
 
