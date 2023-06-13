@@ -38,6 +38,8 @@ Please, leave a start or create an issue (even better).
     <img alt="React Native" src="https://img.shields.io/badge/ReactNative-black?logo=React&style=flat"/>
     <img alt='NodeJS' src="https://img.shields.io/badge/NodeJS-darkgreen?logo=node.js&logoColor=white&style=flat"/>
     <img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
+    <img alt='NestJS' src="https://shields.io/badge/Nest-important?logo=nestJS&logoColor=white&style=flat"/>
+    <img alt='Jest' src="https://shields.io/badge/Jest-red?logo=jest&logoColor=white&style=flat/"/>
     
 </div>
 <br/>
@@ -52,8 +54,10 @@ Please, leave a start or create an issue (even better).
 
 ### I’m currently learning
 <div>
-    <img alt='NestJS' src="https://shields.io/badge/Nest-important?logo=nestJS&logoColor=white&style=flat"/>
-    <img alt='Jest' src="https://shields.io/badge/Jest-red?logo=jest&logoColor=white&style=flat/"/>
+    <img alt="Pyhton" src="https://img.shields.io/badge/Python-24292e?logo=python&logoColor=yellow&style=flat"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-blue?logo=flask&logoColor=white&style=flat"/>
+       <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-24292e?logo=blockchain&logoColor=blue&style=flat"/>
+    <img alt="Managment" src="https://img.shields.io/badge/Managment-green?logo=managment&logoColor=white&style=flat"/>
 </div>
 
 ### Courses
