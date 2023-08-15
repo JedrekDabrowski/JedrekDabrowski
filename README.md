@@ -56,18 +56,12 @@ Please, leave a start or create an issue (even better).
 <div>
     <img alt="Pyhton" src="https://img.shields.io/badge/Python-24292e?logo=python&logoColor=yellow&style=flat"/>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-blue?logo=flask&logoColor=white&style=flat"/>
-       <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-24292e?logo=blockchain&logoColor=blue&style=flat"/>
     <img alt="Managment" src="https://img.shields.io/badge/Managment-green?logo=managment&logoColor=white&style=flat"/>
+    <img alt="Marketing" src="https://img.shields.io/badge/Marketing-yellow?logo=managment&logoColor=white&style=flat"/>
 </div>
 
-### Courses
-On my Udemy profile you can see all courses that I have finished or I am currently doing:
-<br/>
-<br/>
-https://www.udemy.com/user/jedrzej-dabrowski-2/
-<br/>
-### Other Projects
 
+### Other Projects
 <strong>Shop App</strong>
 <br/>
 Shop app is a React Native project with TypeScript. As a state container I have used Redux and Firebase database.
@@ -86,46 +80,6 @@ The project is available here:
 <br/>
 <br/>
 https://github.com/JedrekDabrowski/MyBlogNextJS
-<br/>
-<br/>
-<strong>WeatherApp</strong>
-<br/>
-The Weather App is my first React Project, app allows you to find inormation about current weather around the world.
-<br/>
-In the first version I used class components then I refactor them to funcional components.
-<br/>
-All data were fetched from: https://openweathermap.org/
-<br/>
-<br/>
-You can see how it works here:
-<br/>
-https://jedrekdabrowski.github.io/Weather-App/
-<br/>
-<br/>
-<strong>Millionaires</strong>
-<br/>
-Millionaires App is a well-known game which we all know from TV.
-<br/>
-In the first version I used class component then I refactor them to funcional components. I want to pratice more React Context so I add GameContext Component to avoid "props drilling" approach. 
-<br/>
-All data were fetched from: https://opentdb.com/
-<br/>
-<br/>
-I wish you luck because the questions are tough. Have fun!
-<br/>
-You can see how it works here:
-<br/>
-https://jedrekdabrowski.github.io/Millionaires-React-App/
-<br/>
-<br/>
-<strong>QuotesBook</strong>
-<br/>
-QuotesBook is an app with a page turning animation. 
-<br/>
-Take a closer look at it:
-<br/>
-<br/>
-https://github.com/JedrekDabrowski/QuotesBook
 <br/>
 <br/>
 ### Don't hesitate to contact me:
