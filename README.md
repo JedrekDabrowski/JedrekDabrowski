@@ -1,31 +1,29 @@
 ### Hello everybody 👋
 
-I am experienced React Native developer with a passion for mobile app development. 
-Recognized for strong problem-solving skills and an ability to quickly learn new 
-technologies. I consider myself to be well-organized and highly motivated. 
+Experienced React Native developer with a passion for mobile app development. Recognised for strong problem-solving skills and an ability to quickly learn new technologies. I consider myself to be well organised and highly motivated.
 
-I graduated the IT bachelor degree on Bialystok University of Technology. It is worth mentioning that I have the student status.
+As a React Native developer, I enjoy supporting open-source projects that drive the growth of the community. I actively take part in discussions, sharing my knowledge and experience, which helps me support others while also learning new things. Additionally, I am part of React Native Warsaw conferences team, bringing developers together to exchange ideas and grow together.
 
-### My Main Project
+---
 
-<strong>Graphbase-core</strong>
-<br/>
-I am developing my own library with generates backend resolvers based on GraphQL schema provided by user.
-<br/>
-You can see how it works here:
+### My open source Project
+I am developing my own React Native Template to speed up creating my own projects.
 
-Github: https://github.com/GraphBase-Core/graphbase-core
+[EasydoorReactNativeTemplate](https://github.com/Easydoor-Software/EasydoorReactNativeTemplate)
 
-NPM: https://www.npmjs.com/package/graphbase-core
+---
 
-Please, leave a start or create an issue (even better).
+Library with generates backend resolvers based on GraphQL schema provided by user. It was my bechelor engineering thesis and won Engineer 4 Science 2023 contests.
+
+[GraphBase-Core-Github](https://github.com/GraphBase-Core/graphbase-core), [GraphBase-Core-NPM](https://www.npmjs.com/package/graphbase-core)
+
+---
 
 ### Tech stack
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
     <img alt='Styled Components' src="https://img.shields.io/badge/Styled Components-white?logo=styled-components&logoColor=purple&style=flat"/>
-    
 </div>
 <br/>
 <div>
@@ -40,7 +38,6 @@ Please, leave a start or create an issue (even better).
     <img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
     <img alt='NestJS' src="https://shields.io/badge/Nest-important?logo=nestJS&logoColor=white&style=flat"/>
     <img alt='Jest' src="https://shields.io/badge/Jest-red?logo=jest&logoColor=white&style=flat/"/>
-    
 </div>
 <br/>
 <div>
@@ -50,38 +47,17 @@ Please, leave a start or create an issue (even better).
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat"/>
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-blue?logo=webpack&logoColor=white&style=flat"/>
 </div>
-<br/>
 
 ### I’m currently learning
 <div>
-    <img alt="Pyhton" src="https://img.shields.io/badge/Python-24292e?logo=python&logoColor=yellow&style=flat"/>
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-blue?logo=flask&logoColor=white&style=flat"/>
-    <img alt="Managment" src="https://img.shields.io/badge/Managment-green?logo=managment&logoColor=white&style=flat"/>
-    <img alt="Marketing" src="https://img.shields.io/badge/Marketing-yellow?logo=managment&logoColor=white&style=flat"/>
+    <img alt="Android" src="https://img.shields.io/badge/Android-24292e?logo=android&logoColor=green&style=flat"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-24292e?logo=kotlin&logoColor=purple&style=flat"/>
+    <img alt="IOS" src="https://img.shields.io/badge/IOS-24292e?logo=ios&logoColor=white&style=flat"/>
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-24292e?logo=swift&logoColor=orange&style=flat"/>
 </div>
 
+---
 
-### Other Projects
-<strong>Shop App</strong>
-<br/>
-Shop app is a React Native project with TypeScript. As a state container I have used Redux and Firebase database.
-<br/>
-Take a closer look at it:
-<br/>
-<br/>
-https://github.com/JedrekDabrowski/Shop-App
-<br/>
-<br/>
-<strong>MyBlog App</strong>
-<br/>
-MyBlog app is React project with NextJS framework, mongoDB database, gray-matter and much more.
-<br/>
-The project is available here:
-<br/>
-<br/>
-https://github.com/JedrekDabrowski/MyBlogNextJS
-<br/>
-<br/>
 ### Don't hesitate to contact me:
 jedrzejdabrowski.jd@gmail.com
 <br/>
