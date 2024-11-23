@@ -13,7 +13,7 @@ I am developing my own React Native Template to speed up creating my own project
 
 ---
 
-Library with generates backend resolvers based on GraphQL schema provided by user. It was my bechelor engineering thesis and won Engineer 4 Science 2023 contests.
+Library with generates backend resolvers based on GraphQL schema provided by user. It was my bachelor engineering thesis and won Engineer 4 Science 2023 contests.
 
 [GraphBase-Core-Github](https://github.com/GraphBase-Core/graphbase-core), [GraphBase-Core-NPM](https://www.npmjs.com/package/graphbase-core)
 
