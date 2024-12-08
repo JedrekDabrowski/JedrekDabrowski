@@ -1,13 +1,13 @@
 ### Hello everybody 👋
 
-Experienced React Native developer with a passion for mobile app development. Recognised for strong problem-solving skills and an ability to quickly learn new technologies. I consider myself to be well organised and highly motivated.
+I am experienced React Native developer with a passion for mobile app development. Recognised for strong problem-solving skills and an ability to quickly learn new technologies. I consider myself to be well organised and highly motivated.
 
 As a React Native developer, I enjoy supporting open-source projects that drive the growth of the community. I actively take part in discussions, sharing my knowledge and experience, which helps me support others while also learning new things. Additionally, I am part of React Native Warsaw conferences team, bringing developers together to exchange ideas and grow together.
 
 ---
 
 ### My open source Project
-I am developing my own React Native Template to speed up creating my own projects.
+I am developing React Native Template to speed up creating my own projects.
 
 [EasydoorReactNativeTemplate](https://github.com/Easydoor-Software/EasydoorReactNativeTemplate)
 
